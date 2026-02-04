@@ -30,20 +30,13 @@ practitioners interested in working directly with CT.gov data in drug safety set
 
 ## Documentation and Reports
 
-The written materials produced during the project include:
-
-- **Proposal** – initial project scope and design
-- **Progress Report** – mid-project status and refinements
-- **Final Report and Poster** – presented at the conclusion of the course
-
-These documents describe the motivation, data processing approach, design decisions,
-and results of the project.
+- **documentation** - Contains the final report presented at the conclusion of the course
 
 ---
 
 ## Source Code
 
-All source code for the project is located in the **`java/`** directory.
+All source code for the project is located in the **`src/`** directory.
 
 The code demonstrates:
 - Parsing and normalization of CT.gov data
@@ -66,6 +59,3 @@ pharmacovigilance applications.
 ## Disclaimer
 
 This project was developed for academic purposes as part of a graduate course.
-
-but rather as a complementary, lightweight example emphasizing transparency,
-accessibility, and methodological clarity.
