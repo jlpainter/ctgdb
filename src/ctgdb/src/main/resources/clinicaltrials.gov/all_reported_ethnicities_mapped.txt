@@ -1,0 +1,944 @@
+7	other
+aa/african h. and american indian or alaska native	native american
+aboriginal	native american
+aborigine	native american
+afirican american	black
+africa americans	black
+african american (aa)	black
+african american/african (afr) heritage	black
+african american/african heritage and asian heritage	black
+african american/african heritage	black
+african american and other	black
+african american	black
+african-american	black
+african/american	black
+african american/ black	black
+african american/black	black
+african-american/black	black
+african american/caucasian	black
+african american, hispanic and other	black
+african american non-hispanic	black
+african american, non-hispanic	black
+african american, not of hispanic origin	black
+african american only	black
+african american or african	black
+african american or black	black
+african americans	black
+african	black
+african/black	black
+african/caribbean	black
+african descent	black
+african heritage / african american	black
+african heritage/ african american	black
+african heritage/african american	black
+african heritage	black
+african/west indian	black
+afro-american	black
+afro-caribbean	black
+afro-descendant	black
+ai or an and black or african american	black
+ai or an and white- white/caucasian/eh	asian
+alaska native or native american	native american
+alaskan native	native american
+all other races	other
+amerian indian or alaska native	native american
+american (am) indian or alaska (al.) native	native american
+american hispanic	hispanic
+american ind / alaskan / white	native american
+american indian (ai) or alaska native (an)	native american
+american indian (ai) or alaska native heritage	native american
+american indian/ alakan naitive	indian
+american indian/ alaska	native american
+american indian/alaska	native american
+american indian/alaska native and african american	native american
+american indian/alaska native and asian and white	native american
+american indian/alaska native/first nations people	native american
+american indian/ alaska native heritage	native american
+american indian / alaska native	native american
+american indian/ alaska native	native american
+american indian/alaska native	native american
+american-indian/alaska native	native american
+american indian/alaskan	native american
+american indian / alaskan native	native american
+american indian, alaskan native	native american
+american indian/alaskan native	native american
+american indian/alaskan/white	native american
+american indian (amer ind)/alaska native (ala nat)	native american
+american indian (amer. ind.) or alaska native	native american
+american indian	indian
+american indian or alasa native	native american
+american indian or alaska	native american
+american indian or alaska native and black or aa	native american
+american indian or alaska native and white	native american
+american indian or alaska native, caucasian	native american
+american indian or alaska native heritage	native american
+american indian or alaska native	native american
+american indian or alaska native & white	native american
+american indian or alaska native, white	native american
+american indian or alaska native,white	native american
+american indian or alaska native/white	native american
+american indian or alaskan	native american
+american indian or alaskan native asian	native american
+american indian or alaskan native	native american
+american indian or alaskan native wh-wh/ca/eu h	native american
+american indian or native american	native american
+american indian/pacific islander	indian
+american india or alaskan native	native american
+american	native american
+amer ind/ala nat & black/afr amer &white/caucasian	black
+amer ind. or alaska native & black or african amer	native american
+amer. ind. or alaska native & white	native american
+am indian	indian
+am indian or al. native and wt-wt/ca./eu. h.	native american
+anglo indian	indian
+arabic	middle eastern
+arabic/north african	black
+arabic/ north african heritage	black
+arabic/north african heritage	black
+arab	middle eastern
+arab/middle eastern	middle eastern
+arab/west asian	asian
+ashkenazi jewish descendant	caucasian
+asia	asian
+asian1	asian
+asian american	asian
+asian-american	asian
+asian, american indian, or other	asian
+asian and black or african american and white	black
+asian and caucasian	asian
+asian and native hawaiian or other pacific islander	asian
+asian and/or pacific islander	asian
+asian and white	asian
+asian	asian
+asian/asian american	asian
+asian/asian british	asian
+asian / asian british - indian	asian
+asian/asian british - indian	asian
+asian / asian british - pakistani	asian
+asian/asian british - pakistani	asian
+asian (asian indian)	asian
+asian (asi)-central/south asi heritage (her)	asian
+asian : bangladeshi	asian
+asian & black or african amer.	black
+asian & caucasian	asian
+asian - central / south asian heritage	asian
+asian - central/ south asian heritage	asian
+asian - central/south asian heritage	asian
+asian- central/ south asian heritage	asian
+asian- central/south asian heritage	asian
+asian-central/ south asian heritage	asian
+asian-central/south asian heritage	asian
+asian; central/south asian heritage	asian
+asian-central/south asian heritage (h.)	asian
+asian (chinese)	asian
+asian - chinese	asian
+asian : chinese	asian
+asian, chinese	asian
+asian: chinese/taiwanese/hong kong chinese	asian
+asian - east asian h.	asian
+asian - east asian heritage	asian
+asian- east asian heritage	asian
+asian-east asian heritage	asian
+asian; east asian heritage	asian
+asian eastern (chinese, other)	asian
+asian : indian	asian
+asian indian	asian
+asian/indian	asian
+asian (indian, pakistani, bangladeshi, other)	asian
+asian (japanese)	asian
+asian japanese	asian
+asian, japanese	asian
+asian: japanese	asian
+asian- japanese/east asian (ea)/south ea heritage	asian
+asian-japanese/east asian (ea)/south ea heritage	asian
+asian-japanese/east asian heritage (eah)/south eah	asian
+asian-japanese h./east asian h./southeast asian h.	asian
+asian-japanese h/east asian h/south east asian h	asian
+asian - japanese heritage	asian
+asian- japanese heritage	asian
+asian-japanese heritage	asian
+asian (japanese only)	asian
+asian (korean)	asian
+asian - korean	asian
+asian: korean	asian
+asian - mixed race	multiple/biracial
+asian-mixed race	multiple/biracial
+asian/native hawaiian or pacific islander	asian
+asian non-hispanic	asian
+asian (non-japanese)-	asian
+asian, non-japanese	asian
+asian (only indian)	asian
+asian or asian-american	asian
+asian / oriental	asian
+asian /oriental	asian
+asian oriental	asian
+asian/oriental	asian
+asian/oriental or pacific islander	asian
+asian oriential	asian
+asian or native hawaiian or pacific islander	asian
+asian or other	asian
+asian or pacific islander	asian
+asian other	asian
+asian, other	asian
+asian-other	asian
+asian: other	asian
+asian (other asian)	asian
+asian : other asian	asian
+asian (other than chinese or japanese)	asian
+asian/pacific	asian
+asian / pacific islander / american indian	asian
+asian / pacific islander	asian
+asian, pacific islander	asian
+asian/pacific islander	asian
+asian : pakistani	asian
+asian/pi	asian
+asian-se ah and white- white/caucasian/eh	asian
+asian/s.e. asian descent/japanese	asian
+asian/s.e. asian/japanese and african american	black
+asian/s.e. asian/japanese and black and white	black
+asian/s.e. asian/japanese and white/caucasian	asian
+asian : south asian	asian
+asian/south east asian descent/japanese descent	asian
+asian - south east asian h	asian
+asian - south east asian h.	asian
+asian - south east asian heritage	asian
+asian- south east asian heritage	asian
+asian-south east asian heritage	asian
+asian: south east asian heritage	asian
+asian; south east asian heritage	asian
+asian-south east (se) asian heritage (ah)	asian
+asian: vietnamese	asian
+asian & white	asian
+asian/white	asian
+back	black
+bambara	other
+biracial causasian-african american	multiple/biracial
+bi-racial	multiple/biracial
+biracial	multiple/biracial
+biracial or multiracial/multiethnic	multiple/biracial
+black/afr amer & white/caucasian	black
+black/african amercican	black
+black/african amerian	black
+black/african american (afr amer)	black
+black/african american and white/caucasian	black
+black / african american	black
+black / african-american	black
+black \ african-american	black
+black-african american	black
+black/ african american	black
+black/african american	black
+black/african-american	black
+black/ african american heritage	black
+black, african american, or negro	black
+black african	black
+black/african	black
+black: african	black
+black / african / caribbean / black british- african	black
+black/african/caribbean/black british	black
+black / african / caribbean / black british - caribbean	black
+black/afro-caribbean	black
+black, afro-caribbean, or african american	black
+black/afro-carribean	black
+black (all ethnicities)	black
+black and african american	black
+black and white	black
+black	black
+black/black british	black
+black (caribbean, african)	black
+black caribbean	black
+black: caribbean	black
+black, caucasian	black
+black/caucasian or white	black
+black, hispanic	black
+black/mixed black	multiple/biracial
+black non-hispanic	black
+black, non- hispanic	black
+black, non-hispanic	black
+black (non-hispanic/latino)	black
+black, non-latina	black
+black (non-latino or unknown ethnicity)	black
+black not hispanic	black
+black, not hispanic	black
+black not hispanic or latino	black
+black, not of hispanic origin	black
+black of african american	black
+black of african-american	black
+black/of african descent	black
+black of african heritage	black
+black of african origin	black
+black only	black
+black or african am and am indian or al. native	black
+black or african am and wt-wt/ca./eu. h.	black
+black or african am	black
+black or african america	black
+black or african american (aa)	black
+black or african american (aa) heritage	black
+black or african american (amer.)	black
+black or african american and asian	black
+black or african american and caucasian	black
+black or african american and hispanic or latino	black
+black or african american and white	black
+black (or african american)	black
+black or african american	black
+black or african- american	black
+black or african-american	black
+black or african american (b or af am)	black
+black or african american heritage	black
+black or african american, hispanic	black
+black or african american native	black
+black or african american, non-hispanic	black
+black or african american & white	black
+black or african american, white	black
+black or african amer. & white	black
+black or african and american	black
+black or african	black
+black or african heritage	black
+black or african origin	black
+black or other race	black
+black other	black
+black: other black	black
+blacks	black
+black, white, american indian	black
+b or af am and white-white/caucasian/european her.	asian
+bovine thrombin	other
+brahmin/ chhetri	other
+brazilian	other
+brown	hispanic
+"brown" or "mulatto"	multiple/biracial
+cambodian	other
+caribbean british	other
+caribbean	other
+caucasian and hispanic or latino	caucasian
+caucasian/asian	caucasian
+caucasian	caucasian
+caucasian, hispanic	caucasian
+caucasian/hispanic	caucasian
+caucasian (not of hispanic origin)	caucasian
+caucasian, not of hispanic origin	caucasian
+caucasian only	caucasian
+caucasian or white	caucasian
+caucasians	caucasian
+caucasian/ white	caucasian
+caucasian/white	caucasian
+caucasion	caucasian
+caucassian	caucasian
+causasian/white	asian
+central/south asian heritage	asian
+central/south asian heritage (her)	asian
+central/south asian heritage (her.)	asian
+chinese	asian
+chose not to answer	other
+colored	other
+coloured	other
+cuban or carribean	other
+cuban	other
+data missing	other
+declined	other
+declined respond	other
+declined to answer	other
+declined to respond	other
+declined to response	other
+declined to state	other
+declined to state/unknown	other
+did not respond	other
+does not want to report	other
+dominican	other
+do not wish to provide	other
+don't know/missing	other
+don't know/refused/not specified	other
+east asian	asian
+east asian heritage	asian
+east asian or asian american	asian
+east indian	indian
+east & south east asian	asian
+east/south east asian	asian
+egyptian	middle eastern
+ethnic finn	caucasian
+ethnicity: american hispanic	hispanic
+ethnicity: non american hispanic	hispanic
+ethnicity: other ethnic group	other
+ethnicity - other	other
+ethnicity-other	other
+ethnicity: white british	caucasian
+ethnic sami	other
+european	caucasian
+filipino	asian
+first generation, non-mixed chinese	multiple/biracial
+first nations	other
+france n=1051 (ethnic origin was not provided	caucasian
+fula	other
+fula/peulh	other
+gipsy	other
+han chinese	asian
+han ethnicity	other
+han nationality	other
+han	other
+hawaiian	native hawaiian
+hawaiian or other pacific islander	native hawaiian
+hawaiian or pacific islander	native hawaiian
+hispanic, african american	black
+hispanic american	hispanic
+hispanic and caucasian	asian
+hispanic and/or latino	hispanic
+hispanic black	black
+hispanic & caucasian	asian
+hispanic (ethnicity)	hispanic
+hispanic ethnicity	hispanic
+hispanic	hispanic
+hispanic latina	hispanic
+hispanic/latina	hispanic
+hispanic/latino/a	hispanic
+hispanic/latino and/or non-caucasian	asian
+hispanic/latino (any race)	hispanic
+hispanic / latino	hispanic
+hispanic latino	hispanic
+hispanic/ latino	hispanic
+hispanic/latino	hispanic
+hispanic/latino:no	hispanic
+hispanic, latino or other spanish origin	hispanic
+hispanic, latino or spanish	hispanic
+hispanic, latino, or spanish origin	hispanic
+hispanic/latino:yes	hispanic
+hispanic mexican mestizo	hispanic
+hispanic native american	hispanic
+hispanic, not african american	black
+hispanic of any race	hispanic
+hispanic or latina	hispanic
+hispanic or latino ethnicity	hispanic
+hispanic or latino	hispanic
+hispanic or latino origin	hispanic
+hispanic or lation	hispanic
+hispanic/other, english interview	hispanic
+hispanic other	hispanic
+hispanic/other	hispanic
+hispanic (regardless of race)	hispanic
+hispanic, regardless of race	hispanic
+hispanics	hispanic
+hispanic, spanish interview	hispanic
+hispanic white	hispanic
+hui chinese	asian
+human thrombin	other
+i don't know / not sure	other
+india	indian
+indian (american ) or alaska native	native american
+indian ancestry	indian
+indian/asian	asian
+indian	indian
+indian (indian subcontinent)	indian
+indian/pakistani/bangladeshi	indian
+indian/south asian	asian
+indigenous austrailian	other
+indigenous person	other
+indigenous swede	other
+i prefer not to answer / no response	other
+irish	caucasian
+islander	native hawaiian
+janajati	other
+japanese	asian
+japanese/east asian heritage (eah)/south eah	asian
+japanese/east asian her/south east asian her	asian
+japanese/east asian /south east asian heritage	asian
+japanese from japan	asian
+japanese her.	asian
+japanese her./east asian her/south east asian her.	asian
+japanese her/east asian her/south east asian her	asian
+japanese heritage	asian
+japanese heritage(h)/eastasian (h)/southeast asian (h)	asian
+jewish	caucasian
+jola	other
+korean	asian
+latina	hispanic
+latin american	hispanic
+latin-american	hispanic
+latin	hispanic
+latino american	hispanic
+latino	hispanic
+latino/hispanic	hispanic
+latino/mestizo	hispanic
+latino or hispanic american	hispanic
+latino or hispanic	hispanic
+latinx/hispanic	hispanic
+lebanese	middle eastern
+local regulators did not allow collection of race or ethnicity information	other
+madhesi	other
+malay	asian
+malaysian	asian
+man chinese	asian
+mandika/malinke	other
+mandinka	other
+mestizo	other
+metis, aboriginal	native american
+mexican/chicano	hispanic
+mexican	hispanic
+mexican, mexican american, or chicano	hispanic
+mexican, puerto rican, cuban, central or south am.	hispanic
+middle eastern	middle eastern
+middle eastern or arab american	middle eastern
+middle eastern or north african	black
+middle eeastern or north african	black
+midwest	other
+minority ethnicity	other
+missing confirmed	other
+missing data	other
+missing: none of the available races applied	other
+missing/ not specified	other
+missing	other
+missing/unknown	other
+mixed aboriginal-canadian	multiple/biracial
+mixed asian race	multiple/biracial
+mixed black	multiple/biracial
+mixed ethnicity	multiple/biracial
+mixed hispanic/native american	multiple/biracial
+mixed latin-american	multiple/biracial
+mixed	multiple/biracial
+mixed/multi-racial	multiple/biracial
+mixed native	multiple/biracial
+mixed, of predominantly african ancestry	multiple/biracial
+mixed origin	multiple/biracial
+mixed or multi-racial	multiple/biracial
+mixed or other	multiple/biracial
+mixed/other	multiple/biracial
+mixed race	multiple/biracial
+mixed race/not reported	multiple/biracial
+mixed race/other	multiple/biracial
+mixed race- white and asian	multiple/biracial
+mixed (white/aa)	multiple/biracial
+mixed (white/black, white/asian, other)	multiple/biracial
+mixed white race	multiple/biracial
+more than 1	multiple/biracial
+more than 1 race	multiple/biracial
+more than 1 race reported	multiple/biracial
+more than one	multiple/biracial
+more than one race/ethnicity	multiple/biracial
+more than one race	multiple/biracial
+more than one race, non-latina	multiple/biracial
+mulatto	multiple/biracial
+multi/other	multiple/biracial
+multiple- ai or alaska native and white heritage	multiple/biracial
+multiple - american indian/alaska native and white	multiple/biracial
+multiple: american indian or alaska native & white	multiple/biracial
+multiple-asian and white	multiple/biracial
+multiple-black/african american and white heritage	multiple/biracial
+multiple- black or aa and white heritage	multiple/biracial
+multiple-black or african american and white	multiple/biracial
+multiple categories checked	multiple/biracial
+multiple	multiple/biracial
+multiple or other	multiple/biracial
+multiple/other	multiple/biracial
+multiple, other, or unknown	multiple/biracial
+multiple/other/unknown	multiple/biracial
+multiple race	multiple/biracial
+multiple race (nos)	multiple/biracial
+multiple races	multiple/biracial
+multiple races reported	multiple/biracial
+multiple/refused	multiple/biracial
+multiple-w-w/caucasian/eur her asi - east asi her	multiple/biracial
+multi-race/ethnicity	multiple/biracial
+multi race	multiple/biracial
+multi-race	multiple/biracial
+multirace	multiple/biracial
+multi-racial	multiple/biracial
+multiracial	multiple/biracial
+multi-racial or other	multiple/biracial
+multi-racial/ other	multiple/biracial
+multiracial/other	multiple/biracial
+mutiple	other
+mutli race	multiple/biracial
+na	other
+native/aboriginal	native american
+native american/alaskan native	native american
+native american/american indian/alaskan native	native american
+native american and caucasian	asian
+native american/eskimo	native american
+native american, hawaiian or alaskan	native american
+native american	native american
+native american or alaskan native	native american
+native american or american indian	native american
+native american or other pacific islander	native american
+native american/pacific islander	native american
+native amer. indian/ alaskan native	native american
+native arab	middle eastern
+native canadian	native american
+native hawaiian	native hawaiian
+native hawaiian of pacific islander	native hawaiian
+native hawaiian or other	native hawaiian
+native hawaiian or other pacific islande	native hawaiian
+native hawaiian or other pacific islander heritage	native hawaiian
+native hawaiian or other pacific islander	native hawaiian
+native hawaiian or other pacific islanders	native hawaiian
+native hawaiian or other pacific islander & white	caucasian
+native hawaiian or other pacific	native hawaiian
+native hawaiian or pacific islander	native hawaiian
+native hawaiian/other pacific highlander	native hawaiian
+native hawaiian / other pacific islander	native hawaiian
+native hawaiian/other pacific islander	native hawaiian
+native hawaiian other pacific island	native hawaiian
+native hawaiian / pacific islander	native hawaiian
+native hawaiian/ pacific islander	native hawaiian
+native hawaiian/pacific islander	native hawaiian
+native indian (kuna)	native american
+native indian	native american
+native (native brazilian-xavante/kaigang/guarani)	other
+native	other
+no data	other
+non-asian	asian
+non-black/african-american	black
+non-black	black
+non-black hispanic	black
+non-caucasian	asian
+non-caucasion	caucasian
+non-chinese	asian
+non-hispanic african american	black
+non-hispanic african-american	black
+non-hispanic african american/black	black
+non-hispanic american indian	hispanic
+non-hispanic and latino	hispanic
+non-hispanic and non-latino	hispanic
+non-hispanic asian	asian
+non-hispanic black/african american	black
+non hispanic black	black
+non-hispanic black	black
+non-hispanic black or african america	black
+non-hispanic caucasian	asian
+non-hispanic (ethnicity)	hispanic
+non hispanic	hispanic
+non-hispanic	hispanic
+non-hispanic/latino caucasian	asian
+non-hispanic/latino	hispanic
+non-hispanic multi-race	multiple/biracial
+non hispanic or latino/ asian	asian
+non hispanic or latino	hispanic
+non-hispanic or latino	hispanic
+non hispanic or latino/ white	hispanic
+non-hispanic or non-latino	hispanic
+non-hispanic or non-latino origin	hispanic
+non-hispanic other	hispanic
+non-hispanic other race	hispanic
+non hispanic white	hispanic
+non-hispanic white	hispanic
+non-hispanic, white	hispanic
+non-hispanic white or euro-american	hispanic
+non-korean	asian
+non spanish speaking, non hispanic	hispanic
+non white	caucasian
+non-white	caucasian
+non-white race	caucasian
+no or not reported	other
+north african	black
+north-african	black
+north african descent	black
+north african / middle eastern	black
+north american native	native american
+northeast asian	asian
+northeast	other
+nos spanish, hispanic, latino	hispanic
+not allowed based on local regulations	other
+not allowed to collect	other
+not answered	other
+not applicable as per local regulations	other
+not applicable	other
+not available	other
+not colected or reported	other
+not collected as per local laws	other
+not collected/missing	other
+not collected or reported	other
+not collected	other
+not collected per local regulations	other
+not disclosed	other
+not documented	other
+not han	other
+not hispanic, black	black
+not hispanic	caucasian
+not hispanic ethnicity	caucasian
+not hispanic/latina	caucasian
+not hispanic / latino	caucasian
+not hispanic/latino	caucasian
+not hispanic, latino or spanish	caucasian
+not hispanic/not latina	caucasian
+not hispanic or latino	caucasian
+not hispanic or latino, other, or unknown	caucasian
+not hispanic, other	caucasian
+not hispanic/unknown	caucasian
+not hispanic, white	caucasian
+not non-hispanic, white	caucasian
+not otherwise specified, spanish, hispanic, latino	caucasian
+not permitted	other
+not provided/not available	other
+not provided or available	other
+not provided	other
+not recorded in emr	other
+not reportable	other
+not reportable per local laws or regulations	other
+not reported due to confidentiality regulations	other
+not reported in france	caucasian
+not reported/missing	other
+not reported, not hispanic or latino	caucasian
+not reported or collected	other
+not reported	other
+not spanish, hispanic or latino	caucasian
+not specified	other
+not stated	other
+not white	caucasian
+oher	other
+oriental	asian
+oriental (asian other than chinese or japanese)	asian
+oriental (japanese)	asian
+other (>1 race/ethnicity)	other
+other, >1 race, or unknown	other
+other - african + white-caucasian	black
+other (all ethnicities)	other
+other: american	native american
+other and mixed race and ethnicity	multiple/biracial
+other asian	asian
+other: assyrian	other
+other/biracial/biethnic/prefer not to respond	multiple/biracial
+other: caucasian	asian
+other: colombian	other
+other ethnic group	other
+other ethnicity	other
+other (european/arab)	caucasian
+other: hispanic	hispanic
+other, hispanic or latino	hispanic
+other: hispanic or latino	hispanic
+other: including bi and mutiracial	other
+other - indian	indian
+other: kazakstan	other
+other: latino	hispanic
+other: latino / hispanic	hispanic
+other (manchu, tujia, hui)	other
+other: mexican	hispanic
+other minority	other
+other/mixed	multiple/biracial
+other - mixed origin	multiple/biracial
+other-mixed race	multiple/biracial
+other/mixed race	multiple/biracial
+other (mix of races, e.g. african/white)	black
+other/multiple categories	multiple/biracial
+other (multiple)	multiple/biracial
+other/multiple/unknown	multiple/biracial
+other/multiracial	multiple/biracial
+other: multi-racial	multiple/biracial
+other: native american	native american
+other (no classification)	other
+other (nonblack)	black
+other non-hispanic	hispanic
+other, non-hispanic	hispanic
+other (non-latino/unknown ethnicity)	hispanic
+other north east asian	asian
+other (not specified)	other
+other, not specified	other
+other: not specified	other
+other / not stated	other
+other or >1 race/ethnicity reported	other
+other or missing	other
+other or mixed	multiple/biracial
+other or multiple	multiple/biracial
+other or multiple races	multiple/biracial
+other or multirace	multiple/biracial
+other or multiracial	multiple/biracial
+other or not reported	other
+other or unknown	other
+other	other
+other (patient declined to answer)	other
+other race / ethnicity	other
+other race	other
+other races	other
+other racial/ethnic groups	other
+others	other
+other spanish hispanic, or latino	hispanic
+other spanish, hispanic, or latino	hispanic
+other (taiwanese- chinese)	asian
+other: thai/white	caucasian
+other/unknown/missing	other
+other/unknown/not reported	other
+other / unknown	other
+other/unknown	other
+other (unspecified)	other
+other-unspecified	other
+other/utd	other
+pacific islander	native hawaiian
+pakistani	other
+pardo (mixed race or mulatto)	multiple/biracial
+patient chose not to answer	other
+patient declined/ missing	other
+persian	middle eastern
+peruvian	other
+phototype iii	other
+phototype ii	other
+phototype i	other
+phototype iv	other
+phototype vi	other
+phototype v	other
+prefer not to answer	other
+prefer not to say	other
+preferred not to respond	other
+prefers not to answer	other
+privacy	other
+puerto rican/caucasian	asian
+puerto rican	hispanic
+race : asian	asian
+race : asian/oriental	asian
+race : black	black
+race : black or african american	black
+race : caucasian	asian
+race not available to clinic	other
+race not disclosed	other
+race - other	other
+race : other	other
+race-other	other
+race: other	other
+race : white	caucasian
+race: white	caucasian
+race: white-caucasian	asian
+refused/do not know/not collected	other
+refused	other
+russian	caucasian
+sarahule/sarakole	other
+second generation, non-mixed chinese	multiple/biracial
+somali	other
+some other race	other
+south asian	asian
+south asian or indian american	asian
+south east asian	asian
+southeast asian	asian
+south east asian heritage	asian
+south or central american	native american
+south/southeast	other
+spanish/hispanic	hispanic
+sri lankan	other
+subject does not know	other
+subject does not want to report	other
+subject/physician chose not to provide information	other
+taiwanese	asian
+turkish kurdish	middle eastern
+turkish	middle eastern
+two or more races	multiple/biracial
+unable to report	other
+undisclosed	other
+unknown/do not want to specify	other
+unknown/missing	other
+unknown / no information	other
+unknown / not answered	other
+unknown, not reported	other
+unknown/not reported	other
+unknown/not-reported	other
+unknown or ≥2 races/ethnicities	other
+unknown or not reported	other
+unknown	other
+unknown/other	other
+unknown race and unknown ethnicity	other
+unknown race/ethnicity	other
+unknown race	other
+unknown/ refused/ missing	other
+unknown/unable to collect	other
+unknown/unreported	other
+unkown	other
+unspecified	other
+vietnamese	other
+west asian	asian
+west asian (indian sub-continent)	asian
+west	other
+wh - arabic/north african h	black
+white/african-american	caucasian
+white (all ethnicities)	caucasian
+white: american	caucasian
+white, american indian or alaska native	native american
+white and african descent	caucasian
+white and black or african american	caucasian
+white-arabic/north afr/caucasian/european heritage	caucasian
+white - arabic / north african heritage	caucasian
+white - arabic/ north african heritage	caucasian
+white - arabic//north african heritage	caucasian
+white - arabic/north african heritage	caucasian
+white- arabic/ north african heritage	caucasian
+white- arabic/north african heritage	caucasian
+white-arabic / north african heritage	caucasian
+white-arabic/north african heritage	caucasian
+white: arabic/north african heritage	caucasian
+white + asian	caucasian
+white, asian-non-japanese	caucasian
+white: australian/new zealander	caucasian
+white + black or african	caucasian
+white british	caucasian
+white (british, irish, other)	caucasian
+white	caucasian
+white / caucasian	caucasian
+white caucasian	caucasian
+white, caucasian	caucasian
+white-caucasian	caucasian
+white/caucasian	caucasian
+white/caucasian/european her.	caucasian
+white - caucasian / european heritage	caucasian
+white - caucasian/ european heritage	caucasian
+white - caucasian/european heritage	caucasian
+white-caucasian/european heritage	caucasian
+white/caucasian - european heritage	caucasian
+white/caucasian/european heritage	caucasian
+white - caucasian / european heritage, n (%)	caucasian
+white/caucasian, hispanic or latino	caucasian
+white/caucasian, not hispanic or latino	caucasian
+white/caucasian, not reported	caucasian
+white/caucasion, not of hispanic origin	caucasian
+white: eastern european	caucasian
+white - english / welsh / scottish / northern iris	caucasian
+white (european)	caucasian
+white european	caucasian
+white/european	caucasian
+white heritage	caucasian
+white (hispanic)	caucasian
+white hispanic	caucasian
+white, hispanic	caucasian
+white/hispanic	caucasian
+white-irish	caucasian
+white: mediterranean/middle eastern	caucasian
+white/middle eastern	caucasian
+white (middle eastern or north african)	caucasian
+white - mixed race	multiple/biracial
+white/native american	caucasian
+white (non hispanic)	caucasian
+white (non-hispanic)	caucasian
+white non hispanic	caucasian
+white non-hispanic	caucasian
+white, non-hispanic	caucasian
+white/non hispanic	caucasian
+white/non-hispanic	caucasian
+white (non-hispanic/latino)	caucasian
+white, non-latina	caucasian
+white (non-latino or unknown ethnicity)	caucasian
+white not hispanic	caucasian
+white, not hispanic	caucasian
+white not hispanic or latino	caucasian
+white (not of hispanic origin)	caucasian
+white (not reported)	caucasian
+white only	caucasian
+white or caucasian american	caucasian
+white or caucasian	caucasian
+white or caucasion	caucasian
+white other	caucasian
+white, other	caucasian
+white, other: german	caucasian
+white (other white)	caucasian
+white: other white	caucasian
+# white participants	caucasian
+white race	caucasian
+white (w) arabic/north african her	caucasian
+white: western european	caucasian
+white-white/caucasian	caucasian
+white - white/caucasian/european	caucasian
+white-white/caucasian/european	caucasian
+white - white/caucasian/european heritage	caucasian
+white -white/caucasian/european heritage	caucasian
+white- white/ caucasian/ european heritage	caucasian
+white- white/caucasian/ european heritage	caucasian
+white- white/caucasian/european heritage	caucasian
+white-white/caucasian/european heritage	caucasian
+white: white/caucasian/european heritage	caucasian
+white-white/caucasian/european heritage (eh)	caucasian
+white-white/caucasian/european heritage (h)	caucasian
+white(wh)-wh/caucasian(ca)/european(eu)heritage(h)	caucasian
+white (wt)-arabic/north african h.	caucasian
+w. indian	indian
+wolof	other
+wt-wt/caucasian (ca.)/european (eu.) h.	asian
+w-w/caucasian/european (eur) her	asian
+yes	other

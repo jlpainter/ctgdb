@@ -1,0 +1,1662 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03773796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1.3</org_study_id>
+    <nct_id>NCT03773796</nct_id>
+  </id_info>
+  <brief_title>Nabilone for Non-motor Symptoms in Parkinson's Disease</brief_title>
+  <acronym>NMS-Nab2</acronym>
+  <official_title>Nabilone for Non-motor Symptoms in Parkinson's Disease: An Open-label Study to Evaluate Long-term Safety and Efficacy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University Innsbruck</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University Innsbruck</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label extension study for participants of the randomized placebo-controlled,&#xD;
+      double-blind, parallel-group, enriched enrolment randomized withdrawal NMS-Nab Study,&#xD;
+      assessing the long-term safety and efficacy of nabilone for non-motor symptoms in patients&#xD;
+      with Parkinson´s Disease (PD). Nabilone is an analogue of tetrahydrocannabinol (THC), the&#xD;
+      psychoactive component of cannabis. Nabilone acts as a partial agonist on both Cannabinoid 1&#xD;
+      (CB1) and Cannabinoid 2 (CB2) receptor in humans and therefore mimics the effect of THC but&#xD;
+      with more predictable side effects and less euphoria.&#xD;
+&#xD;
+      Eligible patients will be re-tapered in an open-label nabilone dose optimization phase&#xD;
+      followed by an open-label period of 6 months on a stable nabilone dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label extension study for participants of the randomized placebo-controlled,&#xD;
+      double-blind, parallel-group, enriched enrolment randomized withdrawal NMS-Nab Study,&#xD;
+      assessing the long-term safety and efficacy of nabilone for non-motor symptoms in patients&#xD;
+      with Parkinson´s Disease. Nabilone is an analogue of tetrahydrocannabinol (THC), the&#xD;
+      psychoactive component of cannabis.&#xD;
+&#xD;
+      Eligible subjects will be re-tapered with open-label nabilone, optimally up to the dose the&#xD;
+      patient had in the NMS-Nab Trial. It is the investigator´s decision to modify this dose, if&#xD;
+      necessary. The re-tapering will be performed up to a maximum dose of 1 mg twice daily.&#xD;
+      Treatment responders will enter the open-label treatment period for 6 months with visits&#xD;
+      being performed every 3 months in the context of the patient´s regularly scheduled visits in&#xD;
+      the specialized outpatient department. The last visit will be the Termination Visit.&#xD;
+      Following this, nabilone will be tapered. During this period the patients will receive phone&#xD;
+      calls every other day. A Safety Follow-Up Visit will be performed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 6, 2018</start_date>
+  <completion_date type="Actual">January 31, 2020</completion_date>
+  <primary_completion_date type="Actual">January 31, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>open-label</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>None, open-label</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AEs in PD Patients Taking Nabilone, Between V 1 and V 3</measure>
+    <time_frame>6 months</time_frame>
+    <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Adverse Events (AE)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects (%) Who Discontinue the Study Due to an AE Between V 1 and V 3</measure>
+    <time_frame>6 months</time_frame>
+    <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects (%) Who Discontinue the Study Due to Other Reasons Than an AE Between V 1 and V 3</measure>
+    <time_frame>6 months</time_frame>
+    <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to other reasons than an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Suicidality in PD Patients Taking Nabilone Between V 1 and V 3 Using the Columbia-Suicide Severity Rating Scale</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Change in aggregated data of the Columbia-Suicide Severity Rating Scale (C-SSRS).&#xD;
+Different questions for suicidality with the possible answers yes or no. Yes represents a worse outcome. Count of participants with new suicidality is given.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hallucinations in PD Patients Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Changes in points of the:&#xD;
+Hallucination item (1.2) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.&#xD;
+Participant count with a change in the hallucination item is reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Day-time Sleepiness in PD Patients Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Changes in points of the:&#xD;
+Day-time sleepiness item (1.8) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Orthostatic Hypotension in PD Patients Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Changes in points of the:&#xD;
+Orthostatic hypotension item (1.12) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS)&#xD;
+Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subject Compliance in PD Patients Taking Nabilone.</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>subject incompliance as per drug accountability (%)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Supine and Standing Blood Pressure Measurements (mmHg) in PD Patients Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>changes in supine and standing blood pressure measurements (mmHg)&#xD;
+Row titles:&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 3&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 3</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Motor and Non-motor Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Total and different parts of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Part I: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part II: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part III: minimum points: 0, maximum points: 132, higher score values indicate a worse outcome.&#xD;
+Part IV: minimum points: 0, maximum points: 24, higher score values indicate a worse outcome.&#xD;
+Total Score: minimum points: 0, maximum points: 272, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Non-motor Symptoms (NMSS) in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Non Motor Symptoms Scale (NMSS) Minimum: 0, maximum: 360, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Non-motor Symptoms (HADS) in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Hospital anxiety and depression scale (HADS), HADS-A assesses anxiety, HADS-D depression.&#xD;
+Total scale: minimum: 0, maximum: 42, separate HADS-A/-D score: minimum: 0, maximum: 21.&#xD;
+Higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Quality of Life in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Parkinson´s Disease Questionnaire - 8 (PDQ-8). Minimum: 0, maximum: 42, higher score values indicate a worse outcome.&#xD;
+PDQ-8 was standardized, therefore the score ranges from 0 to 100 (= PDQ-8 Summary Index).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Sleepiness in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Epworth Sleepiness Scale (ESS) Minimum: 0, maximum: 24, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Fatigue in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Fatigue Severity Scale (FSS). Minimum: 9, maximum: 63, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Pain in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+King's Parkinson's disease pain scale (KPPS) Minimum: 0, maximum: 168, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Impulsive-compulsive Behaviour in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Questionnaire for Impulsive-Compulsive Disorders in Parkinson's Disease-Rating Scale (QUIP-RS) Minimum: 0, maximum: 112, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Overall Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>between V 1 and V 3 (6 months)</time_frame>
+    <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Clinical Global Impression - Global Improvement (CGI-I) Minimum: 1, maximum: 7, higher score values indicate a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Cognitive Function (MoCA) in Patients With PD Taking Nabilone Between V 1 and V 3</measure>
+    <time_frame>from Screening of the preceding study (NCT03769896) to V 3 of this study (a maximum of 2 years, at study completion)</time_frame>
+    <description>The change of Montreal Cognitive Assessment (MoCA, minimum 0 points, maximum 30 points, higher score values indicate better outcome) score values between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Cognitive Function (MMSE) in Patients With PD Taking Nabilone</measure>
+    <time_frame>from screening of the preceding study (NCT03769896) to V 3 of this study (a maximum of 2 years, at study completion)</time_frame>
+    <description>The change of Mini Mental State Exam (MMSE, minimum 0 points, maximum 30 points, higher score values indicate better outcome) between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in Reaction Time.</measure>
+    <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+    <description>Change of the reaction time (seconds), between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in Attention Span.</measure>
+    <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+    <description>Change of attention span (error rate, correct trials) between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in the Ability to Concentrate.</measure>
+    <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+    <description>Change of ability to concentrate (error rate, correct trials) between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">22</enrollment>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>Treatment Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nabilone 0.25 mg</intervention_name>
+    <description>capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+    <arm_group_label>Treatment Group</arm_group_label>
+    <other_name>Canemes</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        In order to be eligible for participation in the study, subjects must meet all inclusion&#xD;
+        criteria:&#xD;
+&#xD;
+          1. In order to be eligible for the study, patients must have completed the double-blind&#xD;
+             phase of the NMS-Nab trial as responders within the last 2 months.&#xD;
+&#xD;
+          2. For patients that completed NMS-Nab Study over 2 months prior to the Screening /&#xD;
+             Baseline Visit, and meet all other inclusion criteria, eligibility should be discussed&#xD;
+             on a case-by-case basis.&#xD;
+&#xD;
+          3. Only patients without a drug-related serious adverse event (SAE) or (drug-related)&#xD;
+             moderate or severe AE during the NMS-Nab Study can be included in the study&#xD;
+&#xD;
+          4. Patients must be able and willing to provide written informed consent prior to any&#xD;
+             study related procedure being performed. Patients with a legal guardian should be&#xD;
+             consented according to local requirements.&#xD;
+&#xD;
+          5. Patients must be willing and able to take oral medication and able to comply with the&#xD;
+             study specific procedures.&#xD;
+&#xD;
+          6. The patient is in good health as determined by medical examination and based on the&#xD;
+             investigator's judgement&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients with any of the following characteristics will be excluded from entering the&#xD;
+        study:&#xD;
+&#xD;
+          1. Patients with PArkinson´s Disease (PD) who have not participated in the randomized&#xD;
+             double-blind phase of the previous NMS-Nab Study.&#xD;
+&#xD;
+          2. Patients that experienced a drug-related SAE or had a (drug-related) moderate or&#xD;
+             severe AE during the NMS-Nab Study will be excluded in the study.&#xD;
+&#xD;
+          3. Patients who are unable or unwilling to comply with the study procedures in the&#xD;
+             investigator´s opinion.&#xD;
+&#xD;
+          4. Patients with any clinically significant or unstable medical or surgical condition at&#xD;
+             the Screening / Baseline Visit that may preclude safety and the completion of the&#xD;
+             study participation (based on the investigator's judgement).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Neurology - Medical University Innsbruck</name>
+      <address>
+        <city>Innsbruck</city>
+        <state>Tyrol</state>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>July 19, 2018</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 12, 2018</study_first_posted>
+  <results_first_submitted>January 23, 2021</results_first_submitted>
+  <results_first_submitted_qc>February 10, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 2, 2021</results_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University Innsbruck</investigator_affiliation>
+    <investigator_full_name>Klaus Seppi, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Parkinson´s Disease</keyword>
+  <keyword>cannabinoids</keyword>
+  <keyword>non-motor symptoms</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nabilone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The results of this study will be published according to the principles of publication policy. There are no arrangements on publication issues with subsiding parties.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 4, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/96/NCT03773796/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Treatment Group</title>
+          <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Summaries of baseline values were produced in patients receiving at least one dose of study medication and completing at least V 1 as per protocol.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Treatment Group</title>
+          <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="21"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.23" spread="6.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Disease duration</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9.30" spread="6.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.81" spread="2.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>AEs in PD Patients Taking Nabilone, Between V 1 and V 3</title>
+        <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Adverse Events (AE)</description>
+        <time_frame>6 months</time_frame>
+        <population>primary endpoint was safety, please refer to Adverse events section.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>AEs in PD Patients Taking Nabilone, Between V 1 and V 3</title>
+          <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Adverse Events (AE)</description>
+          <population>primary endpoint was safety, please refer to Adverse events section.</population>
+          <units>adverse events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects (%) Who Discontinue the Study Due to an AE Between V 1 and V 3</title>
+        <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+        <time_frame>6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects (%) Who Discontinue the Study Due to an AE Between V 1 and V 3</title>
+          <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects (%) Who Discontinue the Study Due to Other Reasons Than an AE Between V 1 and V 3</title>
+        <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to other reasons than an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+        <time_frame>6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects (%) Who Discontinue the Study Due to Other Reasons Than an AE Between V 1 and V 3</title>
+          <description>Safety and tolerability will be evaluated with reference to the following:&#xD;
+Number of subjects (%) who discontinue the study due to other reasons than an AE The reasons for discontinuation will be grouped in &quot;discontinuation due to an AE&quot; and &quot;discontinuation due to other reasons&quot;. Both results will be provided separately.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Suicidality in PD Patients Taking Nabilone Between V 1 and V 3 Using the Columbia-Suicide Severity Rating Scale</title>
+        <description>Change in aggregated data of the Columbia-Suicide Severity Rating Scale (C-SSRS).&#xD;
+Different questions for suicidality with the possible answers yes or no. Yes represents a worse outcome. Count of participants with new suicidality is given.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Suicidality in PD Patients Taking Nabilone Between V 1 and V 3 Using the Columbia-Suicide Severity Rating Scale</title>
+          <description>Change in aggregated data of the Columbia-Suicide Severity Rating Scale (C-SSRS).&#xD;
+Different questions for suicidality with the possible answers yes or no. Yes represents a worse outcome. Count of participants with new suicidality is given.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Hallucinations in PD Patients Taking Nabilone Between V 1 and V 3</title>
+        <description>Changes in points of the:&#xD;
+Hallucination item (1.2) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.&#xD;
+Participant count with a change in the hallucination item is reported.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hallucinations in PD Patients Taking Nabilone Between V 1 and V 3</title>
+          <description>Changes in points of the:&#xD;
+Hallucination item (1.2) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.&#xD;
+Participant count with a change in the hallucination item is reported.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>less hallucinations</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>more hallucinations</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>no change</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Day-time Sleepiness in PD Patients Taking Nabilone Between V 1 and V 3</title>
+        <description>Changes in points of the:&#xD;
+Day-time sleepiness item (1.8) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Day-time Sleepiness in PD Patients Taking Nabilone Between V 1 and V 3</title>
+          <description>Changes in points of the:&#xD;
+Day-time sleepiness item (1.8) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.05" spread="0.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Orthostatic Hypotension in PD Patients Taking Nabilone Between V 1 and V 3</title>
+        <description>Changes in points of the:&#xD;
+Orthostatic hypotension item (1.12) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS)&#xD;
+Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Orthostatic Hypotension in PD Patients Taking Nabilone Between V 1 and V 3</title>
+          <description>Changes in points of the:&#xD;
+Orthostatic hypotension item (1.12) of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS)&#xD;
+Each item has a minimum of 0 and a maximum of 4 points with higher score values representing a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.16" spread="0.77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Subject Compliance in PD Patients Taking Nabilone.</title>
+        <description>subject incompliance as per drug accountability (%)</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Subject Compliance in PD Patients Taking Nabilone.</title>
+          <description>subject incompliance as per drug accountability (%)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Supine and Standing Blood Pressure Measurements (mmHg) in PD Patients Taking Nabilone Between V 1 and V 3</title>
+        <description>changes in supine and standing blood pressure measurements (mmHg)&#xD;
+Row titles:&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 3&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 3</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <population>21 patients for V 1 and 19 for V 3 analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Supine and Standing Blood Pressure Measurements (mmHg) in PD Patients Taking Nabilone Between V 1 and V 3</title>
+          <description>changes in supine and standing blood pressure measurements (mmHg)&#xD;
+Row titles:&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of systolic blood pressure readings (SBP) from supine to standing position for 3 min at V 3&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 1&#xD;
+Mean Change of diastolic blood pressure readings (DBP) from supine to standing position for 3 min at V 3</description>
+          <population>21 patients for V 1 and 19 for V 3 analyzed.</population>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>1. change of SBP from supine to standing position for 3 min at V 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.14" spread="7.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2. change of SBP from supine to standing position for 3 min at V 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.05" spread="11.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3. change of DBP from supine to standing position for 3 min at V 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.76" spread="6.96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4. change of DBP from supine to standing position for 3 min at V 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.42" spread="9.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Motor and Non-motor Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Total and different parts of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Part I: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part II: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part III: minimum points: 0, maximum points: 132, higher score values indicate a worse outcome.&#xD;
+Part IV: minimum points: 0, maximum points: 24, higher score values indicate a worse outcome.&#xD;
+Total Score: minimum points: 0, maximum points: 272, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Motor and Non-motor Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Total and different parts of Movement Disorders Society - Unified Parkinson´s Disease Rating Scale (MDS-UPDRS) Part I: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part II: minimum points: 0, maximum points: 52, higher score values indicate a worse outcome.&#xD;
+Part III: minimum points: 0, maximum points: 132, higher score values indicate a worse outcome.&#xD;
+Part IV: minimum points: 0, maximum points: 24, higher score values indicate a worse outcome.&#xD;
+Total Score: minimum points: 0, maximum points: 272, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>MDS-UPDRS I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.58" spread="13.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MDS-UPDRS II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.58" spread="3.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MDS-UPDRS III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.89" spread="6.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MDS-UPDRS IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.16" spread="2.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MDS-UPDRS Total Score</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.05" spread="15.90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Non-motor Symptoms (NMSS) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Non Motor Symptoms Scale (NMSS) Minimum: 0, maximum: 360, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Non-motor Symptoms (NMSS) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Non Motor Symptoms Scale (NMSS) Minimum: 0, maximum: 360, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.84" spread="18.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Non-motor Symptoms (HADS) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Hospital anxiety and depression scale (HADS), HADS-A assesses anxiety, HADS-D depression.&#xD;
+Total scale: minimum: 0, maximum: 42, separate HADS-A/-D score: minimum: 0, maximum: 21.&#xD;
+Higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Non-motor Symptoms (HADS) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Hospital anxiety and depression scale (HADS), HADS-A assesses anxiety, HADS-D depression.&#xD;
+Total scale: minimum: 0, maximum: 42, separate HADS-A/-D score: minimum: 0, maximum: 21.&#xD;
+Higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HADS-A</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.16" spread="1.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HADS-D</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.00" spread="2.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Quality of Life in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Parkinson´s Disease Questionnaire - 8 (PDQ-8). Minimum: 0, maximum: 42, higher score values indicate a worse outcome.&#xD;
+PDQ-8 was standardized, therefore the score ranges from 0 to 100 (= PDQ-8 Summary Index).</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Quality of Life in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Parkinson´s Disease Questionnaire - 8 (PDQ-8). Minimum: 0, maximum: 42, higher score values indicate a worse outcome.&#xD;
+PDQ-8 was standardized, therefore the score ranges from 0 to 100 (= PDQ-8 Summary Index).</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.96" spread="9.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Sleepiness in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Epworth Sleepiness Scale (ESS) Minimum: 0, maximum: 24, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Sleepiness in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Epworth Sleepiness Scale (ESS) Minimum: 0, maximum: 24, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.11" spread="2.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Fatigue in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Fatigue Severity Scale (FSS). Minimum: 9, maximum: 63, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Fatigue in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Fatigue Severity Scale (FSS). Minimum: 9, maximum: 63, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.26" spread="10.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Pain in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+King's Parkinson's disease pain scale (KPPS) Minimum: 0, maximum: 168, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Pain in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+King's Parkinson's disease pain scale (KPPS) Minimum: 0, maximum: 168, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-6.84" spread="15.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Impulsive-compulsive Behaviour in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Questionnaire for Impulsive-Compulsive Disorders in Parkinson's Disease-Rating Scale (QUIP-RS) Minimum: 0, maximum: 112, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Impulsive-compulsive Behaviour in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Questionnaire for Impulsive-Compulsive Disorders in Parkinson's Disease-Rating Scale (QUIP-RS) Minimum: 0, maximum: 112, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.11" spread="1.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Overall Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Clinical Global Impression - Global Improvement (CGI-I) Minimum: 1, maximum: 7, higher score values indicate a worse outcome.</description>
+        <time_frame>between V 1 and V 3 (6 months)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Overall Symptoms in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>Long-term efficacy evaluations are the secondary objective of this study. Efficacy endpoints include changes in points from V 1 to the termination visit in the following questionnaires:&#xD;
+Clinical Global Impression - Global Improvement (CGI-I) Minimum: 1, maximum: 7, higher score values indicate a worse outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.16" spread="1.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Cognitive Function (MoCA) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+        <description>The change of Montreal Cognitive Assessment (MoCA, minimum 0 points, maximum 30 points, higher score values indicate better outcome) score values between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+        <time_frame>from Screening of the preceding study (NCT03769896) to V 3 of this study (a maximum of 2 years, at study completion)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Cognitive Function (MoCA) in Patients With PD Taking Nabilone Between V 1 and V 3</title>
+          <description>The change of Montreal Cognitive Assessment (MoCA, minimum 0 points, maximum 30 points, higher score values indicate better outcome) score values between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.11" spread="1.94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Cognitive Function (MMSE) in Patients With PD Taking Nabilone</title>
+        <description>The change of Mini Mental State Exam (MMSE, minimum 0 points, maximum 30 points, higher score values indicate better outcome) between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+        <time_frame>from screening of the preceding study (NCT03769896) to V 3 of this study (a maximum of 2 years, at study completion)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment Group</title>
+            <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Cognitive Function (MMSE) in Patients With PD Taking Nabilone</title>
+          <description>The change of Mini Mental State Exam (MMSE, minimum 0 points, maximum 30 points, higher score values indicate better outcome) between the Screening Visit of the NMS-Nab Study (before the first intake of nabilone medication) and the termination visit of this study will be assessed as secondary efficacy endpoints.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.42" spread="1.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in Reaction Time.</title>
+        <description>Change of the reaction time (seconds), between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+        <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in Attention Span.</title>
+        <description>Change of attention span (error rate, correct trials) between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+        <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Eye-tracking Evaluation in PD Patients Taking Nabilone at Visit V 2 to Assess Changes in the Ability to Concentrate.</title>
+        <description>Change of ability to concentrate (error rate, correct trials) between Screening and Termination Visit of the randomized placebo-controlled, double-blind, parallel-group, enriched enrolment randomized withdrawal study and V 2 of this study as measured by the Eye-tracking examination.</description>
+        <time_frame>a maximum of 2 years, measurement at V2 visit</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>V1 to V 3, 6 months</time_frame>
+      <desc>definitions do not differ&#xD;
+Other Adverse Events: This section only covers adverse events that fulfill the following reporting definition (threshold 5%): Other (Not Including Serious) Adverse Events: A table of anticipated and unanticipated events (not included in the serious adverse event table) that exceed a frequency threshold (for example, 5%) within any arm of the clinical study, grouped by organ system, with number and frequency of such events in each arm/group of the clinical study.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Treatment Group</title>
+          <description>Assessment of long-term efficacy and safety of nabilone 0.25 mg - 2 mg&#xD;
+Nabilone 0.25 mg: capsules, 0.25 mg up to 2 mg of nabilone taken orally on a daily basis</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="MedDRA">Vomiting</sub_title>
+                <description>hospitalization due to medication-induced nausea and vomiting</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="MedDRA (Unspecified)">Intervertebral disc protrusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>rectum carcinoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Worsening of Parkinson´s disease symptoms</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>respiratory tract infection</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Osteopenia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Osteoarthropathy</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Concentration difficulties</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>intermittant falls</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>transient numbness of the face</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Worsening of Parkinson´s Disease symptoms</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Prof. Klaus Seppi</name_or_title>
+      <organization>Medical University of Innsbruck</organization>
+      <phone>004351250481553</phone>
+      <email>klaus.seppi@tirol-kliniken.at</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,275 @@
+\documentclass[sigconf,nonacm,11pt]{acmart}
+\usepackage{color}
+\definecolor{bg}{RGB}{255,249,227}
+\usepackage{lipsum}
+\usepackage[most]{tcolorbox}
+
+
+%% \BibTeX command to typeset BibTeX logo in the docs
+\AtBeginDocument{%
+	\providecommand\BibTeX{{%
+			\normalfont B\kern-0.5em{\scshape i\kern-0.25em b}\kern-0.8em\TeX}}}
+
+\graphicspath{{fig/}{./}}
+
+%% Rights management information.  This information is sent to you
+%% when you complete the rights form.  These commands have SAMPLE
+%% values in them; it is your responsibility as an author to replace
+%% the commands and values with those provided to you when you
+%% complete the rights form.
+\copyrightyear{2021}
+\acmYear{2021}
+\setcopyright{rightsretained}
+
+%% These commands are for a PROCEEDINGS abstract or paper.
+\acmConference{CSE6242}
+\acmDOI{Data and Visual Analytics}
+\acmISBN{}
+\acmBooktitle{}
+
+
+
+\begin{document}
+
+
+
+% title	
+\title{Visualizing clinicaltrials.gov Data for Rapid Assessment of the Clinical Trial Landscape}
+	
+% authors
+\author{Jeffery Painter}
+
+%% By default, the full list of authors will be used in the page
+%% headers. Often, this list is too long
+\renewcommand{\shortauthors}{Painter, et al.}
+
+\begin{abstract}
+Currently, accessing clinical trial data through the clinicaltrials.gov website is a tedious and cumbersome process, requiring the user to read large quantities of text before being able to find what they need.
+		
+The aim of this project is to build a data visualization tool which aids the user in understanding vast quantities of clinical trial data.
+
+By creating a visual inspection tool, knowledge should be more easily gleaned from this public data to  enable a better understanding of the clinical trial landscape and, more specifically, any adverse drug reactions (ADRs) \cite{seagrave2017adverse} disclosed in those trials.
+\end{abstract}
+	
+%% Keywords. The author(s) should pick words that accurately describe
+%% the work being presented. Separate the keywords with commas.
+\keywords{clinical trials, drug safety, adverse events, data visualization}
+
+%% This command processes the author and affiliation and title
+%% information and builds the first part of the formatted document.
+\maketitle
+
+
+% use star on figure to span multiple columns
+\begin{figure*}
+	\includegraphics[width=\textwidth,height=2.75in]{figures/figure_03}
+	\caption{Tableau Dashboard}
+	\label{ctdb_dashboard}
+\end{figure*}
+
+
+\section{Introduction}
+	
+\subsection{Project Goals}
+This project will scrape clinical trial (CT) data from clinicaltrials.gov (published in XML format) and allow users to explore this data in a graphical representation.  
+
+By utilizing the UMLS (Unified Medical Language System) \cite{bodenreider2004unified}, we will connect adverse events into ``concept codes'' and a network graph which will provide improved search capability and data aggregation using hierarchical and semantic relations.
+
+Data will be stored in a SQLite database, and the UI will be presented as interactive dashboards using Tableau. Further, we will refer to Tang, et al. on best practices for extracting relevant adverse event information, filtering and customizing dashboards \cite{tang2015comparison}.
+
+The dashboards will allow users to search and display clinical trials by disease target, therapeutic class or potential adverse events; presenting results in a rapid assessment for understanding the CT landscape.
+
+\subsection{Current limitations}
+
+Searching for trials using clinicaltrials.gov is difficult at best, requiring much manual effort. Although the website makes it easy to download the data, it is only in XML format making it difficult for non-technical medical staff to utilize \cite{bertsimas2013analytics}. 
+
+In addition, the search interface on clinicaltrials.gov does not provide any way to search for adverse drug events. The search capability it does have is limited and does not take advantage of ontologies which our tool will provide.
+
+After starting this project, deeper investigation revealed a similar project begun in 2012 called the \textit{The Database for Aggregate Analysis of ClinicalTrials.gov} (AACT) \cite{tasneem2012database}.  This project aimed to collect and organize CT data into a structure database available as a download directly from the AACT website. 
+
+Our project is distinguished from the AACT primarily in the construction of our data model compared to the AACT.  The AACT has major deficiencies that fail to help us answer questions around demographic makeup of clinical trials as well as safety and adverse drug reaction data captured in a standardized way. The AACT also does not provide any data visualization or UI to interact with their database, making it inaccessible to non-technical, medical professional staff.
+
+
+\section{Proposed Method}
+
+
+\subsection{Intuition: Our approach and why it will be successful}
+There are no tools available today that can help visualize clinicaltrials.gov data. What does exist is mostly geared towards supporting ongoing trials \cite{bryant2016webcharts} \cite{gotz2016data}. In a recent article, Du et al 
+expressed ``Given the rapid growth of COVID-19 clinical trials, there is an urgent need for a better clinical trial information retrieval tool that supports searching by specifying criteria, including both eligibility criteria and structured trial information.'' \cite{du2021covid}
+
+Our approach is to solve that problem explicitly by analyzing trial data from clinicaltrials.gov (approx. 380K trials). Our tool will identify correlations among variables and present those in a visual display, increasing the understanding of current clinical trials. Through our data driven approach, we are optimistic this visualization tool will allow for more robust and rapid understanding of published clinical trial data \cite{kamal2014big} \cite{haematology2017clinical} \cite{storz2017potentially} and help researchers more rapidly assess the eligibility criteria and structured trial information just as Du et al. suggest.
+
+By utilizing statistical methods to identify outliers, meta-analysis of studies matching a users search criteria (e.g., all trials about Parkinson's disease that have adverse events) may be possible using a methodology similar as proposed in \cite{zhang2015detecting}.
+
+Tableau was used to generate the interactive dashboards. Tableau is widely accepted in the medical community, and we are more likely to gain acceptance from users \cite{huber2018developing} \cite{tong2016evaluating} \cite{yang2018quantifying}. We have applied a hierarchical analysis by way of constructing an ontology on the clinical trial database similar as shown in \cite{merrill2008construction} and \cite{merrill2008meddra}.
+
+\subsubsection{Who cares and what difference will it make?}
+All involved in clinical trial research (e.g. commercial pharma) should care about this tool. Inspecting clinical trial data for adverse drug reactions is not possible without extracting data from XML files. However, the ultimate beneficiary will be patients who need treatment and minimize patient exposure to adverse drug events in future clinical trials.
+
+The tool should also aid researchers in understanding more about CT populations, giving greater insight into control (or placebo) groups than otherwise possible.  Understanding not only test, but control populations is fundamental in experimental design \cite{mayo2017big} \cite{friedman2015basic} \cite{lim2017simulating}. This should also make clearer the current state of patient recruitment \cite{kadam2016challenges} \cite{deichmann2016bioethics}.
+
+\subsection{Data Ingestion \& Data Modeling}
+
+\subsubsection{Data Parsing \& Creating the Object Model}
+
+A substantial effort was required to transform the raw data from XML format into CSV files suitable for ingestion into our database.  Our primary goal in this project is to be able to identify with a reasonable level of confidence the demographics of a particular clinical trial (e.g. age ranges, gender and ethnicity) as well as extract whether or not any of those patients experienced any adverse events as a result of the trial (that is – the patient had a safety issue while participating in the trial).  
+
+Furthermore, we identified for each trial, whether or not there were healthy patients involved.  Investigators planning for future clinical trials are interested in understanding what the demographics are of patients willing to participate in a clinical trial and this information will help our users discover the pool of potential future participants.
+
+The XML parser was written in Java and utilized the JAXB (Jakarta XML Binding) libraries \cite{fialli2003java} to reverse engineer the clinicaltrials.gov XSD (XML Schema Definition) into generated java objects in the de-marshalling process.  We extracted all possible strings used to represent ethnic categories, and took an approach to try and unify these into high level categories (e.g. Caucasian, Hispanic, black, etc).  
+
+While the clinicaltrials.gov system has attempted to map the adverse event terms into MeSH, the XML documents themselves state that this algorithm is not perfect; and there is a recommendation to proceed with caution in using these maps.  Since we are interested primarily in defining safety events, and most of the safety community processes adverse event data using MedDRA (Medical Dictionary for Regulatory Affairs), we chose MedDRA as our standard terminology to map adverse event and condition terms rather than MeSH.  A two-phase approach is applied to map conditions and adverse events to the MedDRA dictionary.  First, maps are found using exact term matching (e.g. ‘nausea’ maps directly to the MedDRA code 10028813 ‘Nausea’).
+
+However, exact term matching does not yield a complete map of reported AE and conditions in CT data, thereby requiring us to extend the mapping to a second stage using fuzzy term matching similar to the process shown in \cite{painter2010toward}. The fuzzy term matching utilizes a bigram analysis to probabilistically align the terms found in the CT adverse event and conditions (which may contain misspellings or non-standard terminology) to MedDRA terms where possible. Below is an example of the results achieved by searching for reported adverse events that contain the term ‘nausea’ -- the query returns all of the reported AE terms in the CT data with a link to the MedDRA code/term pair that it was mapped to:
+
+%% Code Block example
+
+
+
+\begin{tcolorbox}[enhanced jigsaw,colback=bg] %,boxrule=0pt,arc=0pt]
+\begin{tiny}	
+\begin{verbatim}
+	
+  SELECT  reported_ae_term, meddra_code, meddra_term
+    FROM    ctdb.adverse_event
+    WHERE   reported_ae_term like 'nausea';
+
++------------------+-------------+-------------+
+| reported_ae_term | meddra_code | meddra_term |
++------------------+-------------+-------------+
+| Nausea?          | 10028813    | Nausea      |
+| Nause            | 10028813    | Nausea      |
+| Nauseas          | 10028813    | Nausea      |
+| Nausea*          | 10028813    | Nausea      |
+| Nausea (NAUSEA)  | 10028813    | Nausea      |
+| Naseau           | 10028813    | Nausea      |
+| Nauseau          | 10028813    | Nausea      |
+| Nasusea          | 10028813    | Nausea      |
+| Nauseau AE       | 10028813    | Nausea      |
+| Nausea G1        | 10028813    | Nausea      |
+| Nausea**         | 10028813    | Nausea      |
+| LLT Nausea       | 10028813    | Nausea      |
+| Nausea+          | 10028813    | Nausea      |
+| Nausea G2        | 10028813    | Nausea      |
+| Nausea G3        | 10028813    | Nausea      |
++------------------+-------------+-------------+
+\end{verbatim}
+\end{tiny}
+\end{tcolorbox}
+
+There are 15 different forms of reported AE terms that contain the term ‘nausea’ and we see from the SQL output above that we were able to align all of these variations into a single MedDRA term.  This mapping process will allow us to search across the clinical trials data in a more uniform and systematic way rather than trying to accommodate each of the reported AE terms. 
+
+\subsubsection{Data Model}
+
+
+% use star on figure to span multiple columns
+\begin{figure}
+	\includegraphics[width=\textwidth,width=3.5in]{figures/figure_02}
+	\caption{Quaranteam: Clinical Trial Data Model}
+	\label{ctdb_model}
+\end{figure}
+
+
+Our data model (Figure \ref{ctdb_model}) grew organically as we explored the data from the raw XML format and started to think about how we would like to organize and structure the data to help solve our project goals.
+
+The data model starts of course with the \textbf{clinical\_trial} table which tells us some identifying information around the trial (title, description and registration identifiers – e.g. NCT ID, clinicaltrials.gov URL, etc).  From this table, we have linked several supporting tables including \textbf{ct\_country} (where the trials are taking place), \textbf{ct\_arms} (the arm represents who is participating in a trial), \textbf{ct\_condition} (what is the study trying to treat?), \newline
+\textbf{ct\_intervention} (what treatment is the study applying?).
+
+For overall trial eligibility, we have included some information at the \textbf{clinical\_trial} table level to help quickly identify and speed up querying of the data.  This includes details such as minimum and maximum age, whether the trial includes males or females and if the trial includes healthy patients or not.  The real details around the population under study however are stored in the \textbf{ct\_arms} table. 
+
+It is at the \textbf{ct\_arms} table level that the mean and standard deviation of the age is reported, as the counts of male/female and ethnicity of each arm when it is provided.
+
+Further, each trial arm is linked to tables that describe adverse events patients may have experienced, along with count data which is in the \textbf{ct\_adverse\_events} table. Arms can have more than one adverse event linked, and these include both serious and non-serious outcomes (defined in the adverse event table descriptor itself). Due to the nature of CT data, patients are blinded, and we do not have exact details on who was affected (i.e there is no personal identifiable information about the patient stored in our database).
+
+\subsection{Data Ingestion}
+
+We downloaded the entire set of XML files from clinicaltrials.gov as of 2021-Sep-06. The archive is downloaded as a single ZIP file and when expanded, generated 389,766 XML files where each XML file represents a single clinical trial available at the time of download.  The archive was approximately 11gb in size.
+
+After converting the XML files into our data model, we excluded trials that failed to meet some basic criteria consistent with other researchers. This resulted in the total number of trials being reduced to 389,056 (710 trials - 0.18\%).
+
+The reasons for excluding a trial include the following:
+
+\begin{itemize}
+	\item  The study had a status of "Withheld" meaning that the study sponsor or investigators have chosen not to share results of the trial.
+	\item   The second reason to exclude a trial is that no eligibility criteria were defined for a patient cohort. Without any eligibility criteria, that would mean that the trial has not specified a population to study and therefore, is not of interest to our use cases.
+	\item  Thirdly, a study must have some conditions to study.  If the clinical trial did not specify what they were studying, we excluded it.
+
+\end{itemize}
+
+In all, these three exclusion criteria resulted in 710 trials not being entered into our database (less than 0.2\% of all trial data available).
+
+Our fully processed data files can be downloaded from the following URL: \url{https://tinyurl.com/quaranteam-data}
+
+Once the XML data was parsed and converted into our data model, the next step was to store the data in a way that all team members could access the data for further project activities. A python script was written using the sqlite3 library to generate the database, tables, and requirements shown in Figure \ref{ctdb_model}. 
+
+Once the DDL was in place, we could then load the CSV files generated by our XML parsing module into their respective tables using sqlite3, pandas and the csv library. Logging of the entire data ingestion process is accomplished by using python's logging library. This method of creating the database generates a local copy of the SQLite database to work with while developing the data visualization and dashboards.
+
+\subsection{Data Visualization}
+
+After creating our SQLite database representing the data available from clinicaltrials.gov, our next step was to perform some basic data discovery and identify the list of data attributes required for our dashboard development as shown in the rendering of our final Tableau Dashboard in Figure \ref{ctdb_dashboard}.  The table below enumerates the fields required for the dashboard, along with the source table and any transformations needed before incorporating those elements into the data visualization tool.
+
+After completing the data discovery step, a SQL view was created \textbf{vw\_clinical\_trial}.  The view exists in our SQLite database instance and joins the tables listed in Figure \ref{table_vw_cols}. This view allows us to produce all of the data needed for dashboard development. 
+
+
+
+% use star on figure to span multiple columns
+\begin{figure}
+	\includegraphics[width=\textwidth,width=3.5in]{figures/table_01}
+	\caption{Data Elements and Transformations for Dashboard}
+	\label{table_vw_cols}
+\end{figure}
+
+
+In this process, we started with main table \textbf{clinical\_trial} and left joined other tables, applying data transformations as necessary to enrich the data for visualization.
+
+
+Once this SQL view was tested for completeness and accuracy, we setup a data connection in data visualization tool named Tableau and linked to this SQL view \textbf{vw\_clinical\_trial} and imported data into Tableau.
+
+For each of the chart components in the dashboard, a separate worksheet was created in Tableau. Later, these were combined into a single worksheet in order to generate the final dashboard seen in Figure [x].  To enable public access to anyone, this dashboard has been published in a public Tableau server which can be accessed by the following URL: \url{https://tinyurl.com/quaranteam-dashboard}
+
+\section{Experiments}
+
+In a recent publication, Zippel et al attempted to scrape the clinicaltrials.gov website to ascertain the prevalence of Machine Learning methods as used in clinical trials \cite{zippel2021rise}. This is a perfect example of the type of activity our tool could more easily and quickly facilitate. We may use the search criteria presented in this paper to see if it is possible for us to duplicate their results and findings, and could also influence how our dashboard and visualizations may evolve as the project evolves.
+
+In another publication, Du et al stated that with the rapid increase in COVID-19 clinical trials, it is imperative to be able to quickly search and retrieve data related to these trials in order to better understand the work being carried out across the globe in order to reduce duplicative work and also to understand when new results are reported more easily \cite{du2021covid}.
+
+Another experiment was to see how the tool could help us better understand clinical trials related to COVID-19, and more specifically to children.  In Figure \ref{ctdb_covid}, you can see that in just a few clicks, we can search for all clinical trials mentioning COVID-19 (n=5,727), and then adjust our filter by max age to include only those under age 19 to see that 3,947 trials (69\%) had a maximum age which excluded adults in the trial.  This type of analysis would be impossible directly through the clinicaltrials.gov website, and would take significant programming effort to extract from the raw XML files.
+
+
+% use star on figure to span multiple columns
+\begin{figure}
+	\includegraphics[width=\textwidth,width=3.5in]{figures/figure_06_covid_youth}
+	\caption{COVID-19 Studies of Children}
+	\label{ctdb_covid}
+\end{figure}
+
+
+
+\section{Evaluation}
+
+For the first publication, Zippel et al conducted an in depth review in order to  ascertain the prevalence of Machine Learning methods as used in clinical trials. Through our dashboard, this same study can be completed with much less effort.  Due to the construction of our data model, we can easily assess many of the same elements that were covered in this report simply by entering the search term ``machine learning'' into the dashboard, and generating a report.
+
+% use star on figure to span multiple columns
+\begin{figure}
+	\includegraphics[width=\textwidth,width=3.5in]{figures/figure_05}
+	\caption{Clinical Trials involving Machine Learning}
+	\label{ctdb_ml_graph}
+\end{figure}
+
+In Figure \ref{ctdb_ml_graph}, we see the trend is increasing in recent years around the mention of ``Machine Learning'' in clinical trials.  This is consistent with the increase in availability of ML methods and high end computing required to perform these types of trials, as well as the increased interest in machine learning in the last few years. With minimal effort, we could update our search to include the additional search terms used by Zipple to come to the same conclusions reached in their paper, but with much less effort.
+
+
+\section{Conclusion}
+This project demonstrates that by creating a dashboard view for the rapid assessment of clinicaltrials.gov data, we are able to enable any user to quickly assess the clinical trial landscape without having to have programming expertise. Furthermore, the dashboard provides a much richer experience for the user to understand the current state of all clinical trials in a way that is not currently possible with any other tool, including the clinicaltrials.gov website itself. In an instant, the user can quickly search, evaluate and understand clinical trials based on simple keyword searches, see the distribution of those clinical trials across the globe through our geographic mapping module, and also see a bar chart which alerts them to the frequency of which adverse safety events are happening in those clinical trials.
+
+This tool should prove a valuable companion to anyone involved in researching and understanding how clinical trials are being conducted and reported through the clinicaltrials.gov website.
+
+
+
+%% The next two lines define the bibliography style to be used, and
+%% the bibliography file.
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{final_report}
+
+\end{document}
+\endinput
